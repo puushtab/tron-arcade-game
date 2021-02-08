@@ -2,7 +2,7 @@
 A small Tron arcade game made with pygame.
 
 ## How to play:
-- "F" to fullscreen tthe game. It is meant to be played in fullscreen.
+- "F" to fullscreen the game. It is meant to be played in fullscreen.
 - For player 1: use ZQSD to go in any direction
 - For player 2: use the arrows to go in any direction
 - To close the game: Alt + F4 or closing in the window tab is the best way
