@@ -16,7 +16,7 @@ A small Tron arcade game made with pygame.
 
 ## Credits
 The music is ["Giorno's Theme ~ "il vento d'oro" [8-Bit; VRC6] - JoJo's Bizarre Adventure: Golden Wind"](https://www.youtube.com/watch?v=VwUGpudY4Vw) by Branflakes
-
+I made this project with Baptiste Siri, he made the totality of the visuals and I coded most of the project.
 
 
 
