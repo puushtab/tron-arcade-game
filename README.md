@@ -1,8 +1,7 @@
 # tron-arcade-game
 A small Tron arcade game made with pygame.
 
-
-![presentation](https://user-images.githubusercontent.com/58117735/114518928-2951d180-9c40-11eb-81ee-f0a2f2067774.gif)
+![TRON-VIDEO](https://user-images.githubusercontent.com/58117735/114519391-a9783700-9c40-11eb-9331-6b129b81daa9.gif)
 ## How to play:
 - "F" to fullscreen the game. It is meant to be played in fullscreen.
 - For player 1: use ZQSD to go in any direction
