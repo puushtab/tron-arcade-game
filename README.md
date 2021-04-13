@@ -17,7 +17,7 @@ A small Tron arcade game made with pygame.
 ## Arduino
 If you want to play with joysticks for player 2 you have to:
 - Connect your joystick to an arduino microcontroller to the analog input "A0"
-- Upload the file "tron.ino" into your microcontroller
+- Upload the file "tron.ino" into your microcontroller (in the tron folder)
 - Launch it 
 - Star Tron.py and play !
 
