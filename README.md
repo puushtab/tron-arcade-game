@@ -14,11 +14,17 @@ A small Tron arcade game made with pygame.
 - pygame 2.0.0
 - pyserial 3.5
 
+## Arduino
+If you want to play with joysticks with player 2 you have to:
+- Connect your joystick to an arduino microcontroller to the analog input "A0"
+- Upload the file "tron.ino" into your microcontroller
+- Launch it 
+- Star Tron.py and play !
+
 ## What I learned
 - I learned how to use pygame in depth
 - I learned how to use arduino to deal with joysticks
 - I learned how to use classes to represent objects in a video game
-
 
 ## Credits
 The music is ["Giorno's Theme ~ "il vento d'oro" [8-Bit; VRC6] - JoJo's Bizarre Adventure: Golden Wind"](https://www.youtube.com/watch?v=VwUGpudY4Vw) by Branflakes
