@@ -2,7 +2,7 @@
 A small Tron arcade game made with pygame.
 
 
-https://user-images.githubusercontent.com/58117735/114518405-9ca71380-9c3f-11eb-9c70-bc0ae9aefe75.mp4
+![presentation](https://user-images.githubusercontent.com/58117735/114518928-2951d180-9c40-11eb-81ee-f0a2f2067774.gif)
 ## How to play:
 - "F" to fullscreen the game. It is meant to be played in fullscreen.
 - For player 1: use ZQSD to go in any direction
